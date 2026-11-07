@@ -86,7 +86,7 @@ Located in the main directory, the **Workflow Mapping Worksheet** provides a pra
 
 ## ⚡ Real-World Capstone Implementation
 
-The learnings compiled in this repository were put into practice through a full capstone application: **Visual Artist AI Studio** ([Live App](https://www.google.com/url?sa=E&amp;q=https%3A%2F%2Fvisual-artist.ai.studio%2F)).
+The learnings compiled in this repository were put into practice through a full capstone application: **Visual Artist AI Studio** ([Live App]https://visual-artist.ai.studio/).
 
 ### **Application Highlights**:
 
